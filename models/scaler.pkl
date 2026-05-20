@@ -1,0 +1,1 @@
+StandardScaler / MinMaxScaler fitted object for feature scaling

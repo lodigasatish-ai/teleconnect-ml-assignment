@@ -1,0 +1,1 @@
+LabelEncoder / OneHotEncoder fitted object for categorical encoding
